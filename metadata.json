@@ -1,0 +1,6 @@
+{
+  "name": "Tucker & Sons Plumbing",
+  "description": "Professional 24/7 plumbing services in New York, specializing in emergency repairs and complex system installations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
